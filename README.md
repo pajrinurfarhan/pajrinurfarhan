@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pajri Nurfarhan</h1>
+<h1 align="center">Hi 👋, I'm Pajri Nur Farhan</h1>
 <h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
