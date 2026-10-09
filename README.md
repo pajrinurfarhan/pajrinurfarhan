@@ -13,7 +13,7 @@
 - 🌱 Lagi belajar **JavaScript, React, dan Node.js**
 - 👯 Terbuka buat kolaborasi di **open source project**
 - 💬 Tanya gw soal **HTML, CSS, JavaScript, Git**
-- 📫 Reach me at: **pajrinurfarhan@example.com**
+- 📫 Reach me at: **pajrinurfarhan@gmail.com**
 - ⚡ Fun fact: **Suka ngoding sambil dengerin lo-fi**
 
 ---
