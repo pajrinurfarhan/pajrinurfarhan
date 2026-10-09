@@ -1,33 +1,68 @@
-<!-- ==================== HEADER ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋%20I'm%20Pajri%20Nurfarhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20developer%20from%20Indonesia%20🇮🇩&descAlignY=58&descSize=18" />
-</div>
+<h1 align="center">Hi 👋, I'm Pajri Nur Farhan</h1>
+<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
-<!-- ==================== TYPING ANIMATION ==================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<!-- ==================== PROFILE VIEWS + FOLLOWERS ==================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pajrinurfarhan&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pajrinurfarhan?label=Followers&style=for-the-badge&color=2563EB" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-2563EB?style=for-the-badge" alt="Focus" />
-</div>
+---
 
-<br>
+## 🚀 About Me
 
-<!-- ==================== ABOUT ME ==================== -->
-## 💫 About Me
+- 🔭 Saat ini lagi ngerjain **project-ke1**
+- 🌱 Lagi belajar **JavaScript, React, dan Node.js**
+- 👯 Terbuka buat kolaborasi di **open source project**
+- 💬 Tanya gw soal **HTML, CSS, JavaScript, Git**
+- 📫 Reach me at: **pajrinurfarhan@example.com**
+- ⚡ Fun fact: **Suka ngoding sambil dengerin lo-fi**
 
-```typescript
-const pajri = {
-  name: "Pajri Nurfarhan",
-  location: "Indonesia 🇮🇩",
-  role: "Web Developer",
-  code: ["JavaScript", "HTML", "CSS", "React"],
-  currentlyLearning: ["Node.js", "TypeScript", "Next.js"],
-  hobbies: ["Coding", "Gaming", "Lo-fi Music"],
-  funFact: "I debug with console.log() 😅",
-  motto: "Keep learning, keep building 🚀"
-};
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,linux,vscode,figma&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pajrinurfarhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pajrinurfarhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajrinurfarhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/pajrinurfarhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/pajrinurfarhan__" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://github.com/pajrinurfarhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:pajrinurfarhan1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pajrinurfarhan&label=Profile%20views&color=2563EB&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/pajrinurfarhan">pajrinurfarhan</a></p>
