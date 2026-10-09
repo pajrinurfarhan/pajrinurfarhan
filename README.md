@@ -53,10 +53,10 @@
   <a href="https://twitter.com/pajrinurfarhan">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://instagram.com/pajrinurfarhan">
+  <a href="https://instagram.com/pajrinurfarhan__">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:pajrinurfarhan@example.com">
+  <a href="mailto:pajrinurfarhan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/pajrinurfarhan">
