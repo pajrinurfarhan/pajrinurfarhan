@@ -50,9 +50,6 @@
   <a href="https://linkedin.com/in/pajrinurfarhan">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/pajrinurfarhan">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
   <a href="https://instagram.com/pajrinurfarhan__">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
