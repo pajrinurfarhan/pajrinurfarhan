@@ -13,15 +13,15 @@
 - 🌱 Lagi belajar **JavaScript, React, dan Node.js**
 - 👯 Terbuka buat kolaborasi di **open source project**
 - 💬 Tanya gw soal **HTML, CSS, JavaScript, Git**
-- 📫 Reach me at: **pajrinurfarhan@gmail.com**
-- ⚡ Fun fact: **Suka ngoding sambil dengerin lo-fi**
+- 📫 Reach me at: **pajrinurfarhan1@gmail.com**
+- ⚡ Fun fact: **Suka ngoding sambil udud ama ngopi**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
