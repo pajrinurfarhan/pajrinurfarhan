@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Saat ini lagi ngerjain **project-ke1**
+- 🔭 Saat ini lagi ngerjain **Project - 100 JavaScript**
 - 🌱 Lagi belajar **JavaScript, React, dan Node.js**
 - 👯 Terbuka buat kolaborasi di **open source project**
 - 💬 Tanya gw soal **HTML, CSS, JavaScript, Git**
