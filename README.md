@@ -27,7 +27,6 @@ const pajri = {
   currentlyBuilding: "Project - 100 JavaScript",
   currentlyLearning: ["JavaScript", "React", "Node.js"],
   askMeAbout: ["HTML", "CSS", "JavaScript", "Git"],
-  openTo: "Kolaborasi di open source project",
   funFact: "Ngoding paling enak sambil ngopi ☕",
 };
 ```
@@ -81,16 +80,6 @@ const pajri = {
 <img src="https://github-profile-trophy.vercel.app/?username=pajrinurfarhan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
-
----
-
-## 📈 Aktivitas Kontribusi
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pajrinurfarhan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🤝 Mau Kolaborasi?
 
